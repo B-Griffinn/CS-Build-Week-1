@@ -1,0 +1,26 @@
+# Adventure Game Brain Storm
+
+## Theme
+
+> - Maze theme
+>
+>   ### Objective 
+>
+>   - Get out of maze alive with any artifacts that you gather 
+>   - MAIN artifact(s) is found in center of maze and the most difficult to get
+>     - Must prove worthiness in order to pick up main artifact before we leave.
+>       - we are thinking ( Mjölnir -  muh-yol-nir ) 
+
+## Level Design
+
+> - Trap doors that will drop you a level
+>
+> - Main stairway / path that would lead to center 
+>
+>   ### Dimensions
+>
+>   - 1m^2 
+
+## Enemies / Obstacles
+
+> - random "monsters" that we can turn on and off so we can debug successfully 
